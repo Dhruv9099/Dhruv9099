@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruv9099
 - 👀 I’m interested in Learning Technology
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on how to deal with ckos
 - 📫 How to reach me just follow me on instagram @maisuria_dhruv_09
 
