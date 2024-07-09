@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for web devel
 
 ## 📈 Goals
 
-- **Short-term:** Improve my skills in web development and API testing.
+- **Short-term:** Improve my skills in DevOps, AWS, web development and API testing.
 - **Long-term:** Secure a full-time position in a tech company and contribute to innovative projects.
 
 ## 📫 Connect with Me
