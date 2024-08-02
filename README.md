@@ -36,6 +36,11 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for web devel
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhruvkumar-maisuria/)
 - [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@Dhruv09)
 - [![Hashnode-portfolio](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=black)](https://dhruv-maisuria-portfolio.hashnode.dev/)
+- [![youtube](https://img.shields.io/badge/Youtube-red?link=https://www.youtube.com/@TechWithDhruv09)](https://www.youtube.com/@TechWithDhruv09)
+- [![Telegram](https://img.shields.io/badge/any_text-TechWithDhruv09-blue?logo=telegram&logoSize=auto&label=%20Telegram&link=https%3A%2F%2Ft.me%2F%2BrYrfXcCNsRQ2ZjA1)](https://t.me/+rYrfXcCNsRQ2ZjA1)
+
+
+
 
 Feel free to reach out for collaborations, job opportunities, or just to connect!
 
